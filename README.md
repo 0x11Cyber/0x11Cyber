@@ -1,15 +1,33 @@
-<h1 align="center">Hi 👋, I'm 0x11 an cybersecurity passionate.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x11cyber&label=Profile%20views&color=0e75b6&style=flat" alt="0x11cyber" /> </p>
+<h1 align="center">Hi 👋, I'm 0x11Cyber</h1>
+<h3 align="center">Cybersecurity enthusiast & offensive security learner</h3>
 
-
-
-- 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/0x11Cyber)
-
-- 🌱 I’m currently learning **Nmap, Burpsuite, Metasploit**
-
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0x11cyber&label=Profile%20views&color=0e75b6&style=flat" alt="0x11cyber" />
 </p>
 
-<h3 align="left">Languages and Tools that i use :</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 About me
+- 🔭 Currently training on **TryHackMe**  
+  👉 <a href="https://tryhackme.com/p/0x11Cyber" target="_blank">tryhackme.com/p/0x11Cyber</a>
+- 🌱 Learning **Nmap, Burp Suite, Metasploit**
+- 🐧 Linux daily user
+- ⚡ Interested in pentesting, networking & automation
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+</p>
