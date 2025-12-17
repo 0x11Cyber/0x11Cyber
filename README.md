@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm 0x11 an cybersecurity passionate.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x11cyber&label=Profile%20views&color=0e75b6&style=flat" alt="0x11cyber" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x11cyber" alt="0x11cyber" /></a> </p>
+
 
 - 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/0x11Cyber)
 
 - 🌱 I’m currently learning **Python, Nmap, Burpsuite, Linux...**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
