@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0x11Cyber</h1>
-<h3 align="center">Cybersecurity enthusiast & offensive security learner</h3>
+<h3 align="center">Cybersecurity enthusiast & security learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0x11cyber&label=Profile%20views&color=0e75b6&style=flat" alt="0x11cyber" />
@@ -10,9 +10,9 @@
 ### 🧠 About me
 - 🔭 Currently training on **TryHackMe**  
   👉 <a href="https://tryhackme.com/p/0x11Cyber" target="_blank">tryhackme.com/p/0x11Cyber</a>
-- 🌱 Learning **Nmap, Burp Suite, Metasploit**
+- 🌱 Learning **Ghidra, Bash, Assembler ** & and i know ** Nmap, Burp-Suite Basics, Vim**
 - 🐧 Linux daily user
-- ⚡ Interested in pentesting, networking & automation
+- ⚡ Interested in the reverse engineering
 
 ---
 
