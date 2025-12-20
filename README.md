@@ -9,7 +9,7 @@
 
 ### 🧠 About me
 - 🔭 Currently training on **TryHackMe**  
-  👉 <a href="https://tryhackme.com/p/0x11Cyber" target="_blank">tryhackme.com/p/0x11Cyber</a>
+  👉 <a href="https://tryhackme.com/p/0xFFCyber" target="_blank">tryhackme.com/p/0x11Cyber</a>
 - 🌱 Learning **Ghidra, Bash, Assembler** & and i know **Nmap, Burp-Suite Basics, Vim**
 - 🐧 Linux daily user
 - ⚡ Interested in the reverse engineering
