@@ -10,7 +10,7 @@
 ### 🧠 About me
 - 🔭 Currently training on **TryHackMe**  
   👉 <a href="https://tryhackme.com/p/0xFFCyber" target="_blank">tryhackme.com/p/0xFFCyber</a>
-- 🌱 Learning **Java, Bash, Assembler** & and i know **Nmap, Burp-Suite Basics**
+- 🌱 Learning **Java, Bash, Assembler** 
 - 🐧 Linux daily user
 - ⚡ Interested in the reverse engineering
 
